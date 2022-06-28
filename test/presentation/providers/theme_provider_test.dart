@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_theme_switcher/presentation/providers/theme_provider.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_colors.dart';
-import 'package:flutter_theme_switcher/services/storage/storage_service.dart';
+import 'package:flutter_theme_carcasa/presentation/providers/theme_provider.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_colors.dart';
+import 'package:flutter_theme_carcasa/services/storage/storage_service.dart';
 import 'package:get_it/get_it.dart';
 import 'package:mocktail/mocktail.dart';
 

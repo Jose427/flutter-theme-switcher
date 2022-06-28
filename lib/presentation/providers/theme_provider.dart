@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_colors.dart';
-import 'package:flutter_theme_switcher/services/storage/storage_service.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_colors.dart';
+import 'package:flutter_theme_carcasa/services/storage/storage_service.dart';
 
 class ThemeProvider with ChangeNotifier {
   final StorageService storageService;

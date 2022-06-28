@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_theme_switcher/presentation/providers/theme_provider.dart';
-import 'package:flutter_theme_switcher/presentation/settings/widgets/primary_color_option.dart';
-import 'package:flutter_theme_switcher/presentation/settings/widgets/switcher_container.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_colors.dart';
+import 'package:flutter_theme_carcasa/presentation/providers/theme_provider.dart';
+import 'package:flutter_theme_carcasa/presentation/settings/widgets/primary_color_option.dart';
+import 'package:flutter_theme_carcasa/presentation/settings/widgets/switcher_container.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_colors.dart';
 import 'package:provider/provider.dart';
 
 class PrimaryColorSwitcher extends StatelessWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_theme_switcher/presentation/settings/widgets/primary_color_option.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_colors.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_themes.dart';
+import 'package:flutter_theme_carcasa/presentation/settings/widgets/primary_color_option.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_colors.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_themes.dart';
 
 import '../../pump_app.dart';
 

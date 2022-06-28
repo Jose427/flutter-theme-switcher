@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_theme_switcher/presentation/providers/theme_provider.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_colors.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_themes.dart';
+import 'package:flutter_theme_carcasa/presentation/providers/theme_provider.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_colors.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_themes.dart';
 import 'package:provider/provider.dart';
 
 import 'mocks.dart';

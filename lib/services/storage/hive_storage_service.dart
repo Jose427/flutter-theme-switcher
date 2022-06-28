@@ -1,10 +1,10 @@
-import 'package:flutter_theme_switcher/services/storage/storage_service.dart';
+import 'package:flutter_theme_carcasa/services/storage/storage_service.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class HiveStorageService implements StorageService {
   late Box hiveBox;
 
-  Future<void> openBox([String boxName = 'FLUTTER_THEME_SWITCHER']) async {
+  Future<void> openBox([String boxName = 'flutter_theme_carcasa']) async {
     hiveBox = await Hive.openBox(boxName);
   }
 

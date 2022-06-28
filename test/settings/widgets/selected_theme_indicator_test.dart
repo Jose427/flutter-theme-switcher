@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_theme_switcher/presentation/settings/widgets/selected_theme_indicator.dart';
+import 'package:flutter_theme_carcasa/presentation/settings/widgets/selected_theme_indicator.dart';
 
 import '../../pump_app.dart';
 

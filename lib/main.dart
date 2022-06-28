@@ -1,11 +1,11 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_theme_switcher/presentation/providers/theme_provider.dart';
-import 'package:flutter_theme_switcher/presentation/settings/pages/settings_page.dart';
-import 'package:flutter_theme_switcher/presentation/styles/app_themes.dart';
-import 'package:flutter_theme_switcher/services/service_locator.dart';
-import 'package:flutter_theme_switcher/services/storage/storage_service.dart';
+import 'package:flutter_theme_carcasa/presentation/providers/theme_provider.dart';
+import 'package:flutter_theme_carcasa/presentation/settings/pages/settings_page.dart';
+import 'package:flutter_theme_carcasa/presentation/styles/app_themes.dart';
+import 'package:flutter_theme_carcasa/services/service_locator.dart';
+import 'package:flutter_theme_carcasa/services/storage/storage_service.dart';
 import 'package:provider/provider.dart';
 
 void main() {

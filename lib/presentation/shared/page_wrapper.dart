@@ -10,16 +10,7 @@ class PageWrapper extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ClipRRect(
-      borderRadius: const BorderRadius.only(
-        topRight: Radius.circular(20),
-        topLeft: Radius.circular(20),
-      ),
-      child: Container(
-        color: Theme.of(context).scaffoldBackgroundColor,
-        alignment: Alignment.topCenter,
-        child: body,
-      ),
-    );
+    return Text('t');
+
   }
 }
